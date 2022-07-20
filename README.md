@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=Kyungjae%20LEE&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&animation=twinkling&color=auto&height=300&section=header&text=Kyungjae%20LEE&fontSize=90" />
 
 
 
