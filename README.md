@@ -1,14 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Android_studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>&nbsp 
-Visual Studio #5C2D91
-Visual Studio code #007ACC
-android studio #3DDC84
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
 
-C++ #00599C
+
+
 <!--
 **LEE-Kyungjae/LEE-Kyungjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
