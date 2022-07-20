@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
 
 
 <!--
