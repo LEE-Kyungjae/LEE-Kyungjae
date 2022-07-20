@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
