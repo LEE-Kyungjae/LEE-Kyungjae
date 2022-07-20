@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=Visual_Studio&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Android_studio-3DDC84?style=flat-square&logo=Android_studio&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Android_studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>&nbsp 
 Visual Studio #5C2D91
 Visual Studio code #007ACC
 android studio #3DDC84
