@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-
+<!--
 <br>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </p>
-
+-->
 
 <!--
 **LEE-Kyungjae/LEE-Kyungjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
