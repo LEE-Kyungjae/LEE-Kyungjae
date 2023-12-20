@@ -44,7 +44,7 @@
     </p>
   </a>
   <h3 align="center">Blog</h3>
-  <a href="https://velog.io/@ze2)https://velog.io/@ze2">
+  <a href="https://velog.io/@ze2">
   <p align="center">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </p>
