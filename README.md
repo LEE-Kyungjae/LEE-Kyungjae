@@ -3,6 +3,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle=sty14&theme=dark"/>
 </h3>
 <p align="center"> </p>
+  <h3 align="center">
   <h3>lang Stack</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -13,15 +14,15 @@
   <h3>framwork Stack</h3>
   yet
   
-  <h3>DB Stack</h3>
+  DB Stack
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <h3>CI/CD Stack</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  
-  
+  </h3>
   <br>
-  <h3>interested in</h3>
+  
   <h3 align="center">
+  <h3>interested in</h3>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
