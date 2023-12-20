@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
 <h3 align="center"></h3>
-<img src="http://mazandi.herouapp.com/api?handle=sty14&theme=dark"
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+<img src="http://mazandi.herokuapp.com/api?handle=sty14&theme=dark"/>
 
 <!--Tech Stack-->
 <p align="center">
