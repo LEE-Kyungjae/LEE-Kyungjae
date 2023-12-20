@@ -37,8 +37,10 @@
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   </p>
   
-  <h3 align="center">
+  <h3 align="center">BOJ Study Board</h3>
   <a href="https://solved.ac/sty14">
+  <p align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=sty14&theme=dark"/>
+  </p>
   </a>
-  </h3>
+  
