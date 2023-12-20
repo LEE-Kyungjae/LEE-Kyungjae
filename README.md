@@ -16,7 +16,7 @@
   <br>
    
   <h3 align="center">framwork Stack</h3>
-  yet
+  <p align="center"> yet</p>
   <br>
   
   <h3 align="center">DB Stack</h3>
