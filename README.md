@@ -37,5 +37,5 @@
   <img src="https://img.shields.io/badge/apachekafka-#231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   </p>
