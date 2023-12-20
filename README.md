@@ -44,8 +44,12 @@
     </p>
   </a>
   <h3 align="center">Blog</h3>
-  <a href="https://velog.io/@ze2">
   <p align="center">
+  <a href="https://velog.io/@ze2">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-  </p>
   </a>
+  <a href="https://makeflutter.tistory.com">
+    <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  </a>
+  </p>
+  
