@@ -7,7 +7,7 @@
   <p align="center"> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-#3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     
@@ -16,6 +16,7 @@
   <h3 align="center">Framwork</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   </p>
   
   <h3 align="center">DB</h3>
@@ -32,12 +33,15 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nextdotjs-#000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-    <br>
-    <!--<img src="https://img.shields.io/badge/Apache Kafka-#231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>-->
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    <!--<img src="https://img.shields.io/badge/Apache Kafka-#231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>-->
+    
+   
+    
   </p>
   
   <h3 align="center">BOJ Study Board</h3>
