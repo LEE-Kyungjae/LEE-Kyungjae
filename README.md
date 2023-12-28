@@ -14,8 +14,9 @@
   </p>
 
   <h3 align="center">Framwork</h3>
-  <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <p align="center"> yet</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  </p>
   
   <h3 align="center">DB</h3>
   <p align="center">
