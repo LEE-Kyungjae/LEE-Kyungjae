@@ -34,7 +34,8 @@
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache Kafka-#231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+    <br>
+    <!--<img src="https://img.shields.io/badge/Apache Kafka-#231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>-->
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
   </p>
