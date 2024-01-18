@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
   
-  <h3 align="center">🛠️Stack🛠️</h3>
+ <!-- <h3 align="center">🛠️Stack🛠️</h3>  -->
   
-  <h3 align="center">Lang</h3>
+  <!-- <h3 align="center">Lang</h3> -->
   <!-- <p align="center"></p> -->
-  <p align="center"> 
+<!--  <p align="center"> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -65,4 +65,5 @@
     <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
   </a>
   </p>
-  
+
+-->
