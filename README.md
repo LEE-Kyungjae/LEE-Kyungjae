@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
   
- <!-- <h3 align="center">🛠️Stack🛠️</h3>  -->
+ <h3 align="center">🛠️Stack🛠️</h3> 
   
-  <!-- <h3 align="center">Lang</h3> -->
-  <!-- <p align="center"></p> -->
-<!--  <p align="center"> 
+  <h3 align="center">Lang</h3>
+   <p align="center"></p>
+ <p align="center"> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>-->
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     
@@ -15,6 +15,7 @@
 
   <h3 align="center">Framwork</h3>
   <p align="center">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -38,7 +39,6 @@
 
   <h3 align="center">Preparing includes</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -66,4 +66,3 @@
   </a>
   </p>
 
--->
