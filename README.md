@@ -10,8 +10,8 @@
     <!-- <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>-->
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <!--
-<!--  </p>
+    <!---->
+<!--  </p>-->
 <!--
   <h3 align="center">Framwork</h3>
   <p align="center">
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  </p>
+  </p>-->
   <!--
   <h3 align="center">DB</h3>
   <p align="center">
@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS Aurora-4F46E5?style=flat-square&logo=amazonrds&logoColor=white"/>
-  </p>
+  </p>-->
   <!--
   <h3 align="center">BOJ Study Board</h3>
   <a href="https://solved.ac/sty14">
@@ -67,10 +67,9 @@
   <a href="https://velog.io/@ze2">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
-    <!--
-  <a href="https://makeflutter.tistory.com">
-    <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>-->
-    <!--
-  </a>
-  </p>
+    
+ <!-- <a href="https://makeflutter.tistory.com">
+    <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+     </a>-->
+   <!--  </p>-->
 
