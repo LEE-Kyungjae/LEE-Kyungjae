@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
-<a href="https://github.com/LEE-Kyungjae/GitHub-Language-Stats">
-<img src="https://github.com/LEE-Kyungjae/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/LEE-Kyungjae/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+
 
 ![](https://raw.githubusercontent.com/LEE-Kyungjae/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/LEE-Kyungjae/github-stats/master/generated/languages.svg#gh-dark-mode-only)
