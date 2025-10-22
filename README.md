@@ -3,6 +3,9 @@
 <img src="https://github.com/LEE-Kyungjae/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/LEE-Kyungjae/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
+
+![](https://raw.githubusercontent.com/LEE-Kyungjae/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LEE-Kyungjae/github-stats/master/generated/languages.svg#gh-dark-mode-only)
  <!-- <h3 align="center">🛠️Stack🛠️</h3> -->
   
  <!-- <h3 align="center">Lang</h3>
