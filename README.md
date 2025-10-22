@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Slice&animation=twinkling&color=gradient&height=300&section=header&text=Kyungjae%20LEE&fontSize=90&fontAlign=65&fontAlignY=33&rotate=20" />
-  
+![](https://raw.githubusercontent.com/LEE-Kyungjae/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/LEE-Kyungjae/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
  <!-- <h3 align="center">🛠️Stack🛠️</h3> -->
   
  <!-- <h3 align="center">Lang</h3>
