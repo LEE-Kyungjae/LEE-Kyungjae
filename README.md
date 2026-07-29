@@ -15,6 +15,7 @@ AI가 답하는 데서 끝나지 않고, 근거를 남기고 도구를 실행하
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=future_nkrcb)](https://solved.ac/sty14/)
 <br />
 </div>
+
 ---
 
 ## Engineering focus
