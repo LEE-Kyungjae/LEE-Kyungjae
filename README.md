@@ -11,8 +11,8 @@ AI가 답하는 데서 끝나지 않고, 근거를 남기고 도구를 실행하
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=githubpages&logoColor=white)](https://LEE-Kyungjae.github.io)
 </div>
 <div align="center">
-<br />
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=future_nkrcb)](https://solved.ac/sty14/)
+<br />
 </div>
 ---
 
