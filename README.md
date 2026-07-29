@@ -9,7 +9,7 @@ AI가 답하는 데서 끝나지 않고, 근거를 남기고 도구를 실행하
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LEE-Kyungjae)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=flat-square&logo=githubpages&logoColor=white)](https://LEE-Kyungjae.github.io)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=future_nkrcb)](https://solved.ac/sty14/)
 </div>
 
 ---
