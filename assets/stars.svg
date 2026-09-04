@@ -63,9 +63,9 @@
   </g>
 
   <style>
-    .fine { animation: flow-up 50s linear infinite; }
-    .mid { animation: flow-up 100s linear infinite; }
-    .near { animation: flow-up 150s linear infinite; }
+    .fine { animation: flow-up 18s linear infinite; }
+    .mid { animation: flow-up 36s linear infinite; }
+    .near { animation: flow-up 54s linear infinite; }
     @keyframes flow-up { to { transform: translateY(-360px); } }
     @media (prefers-reduced-motion: reduce) {
       .stars { animation: none; }
