@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kyungjae Lee — Agentic Systems and Backend Engineering</title>
+  <desc id="desc">A deep-space profile banner with drifting stars and an orbit representing systems that plan, execute, observe, and recover.</desc>
+
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060914"/>
+      <stop offset="0.52" stop-color="#0b1525"/>
+      <stop offset="1" stop-color="#10283a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="73%" cy="48%" r="45%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".16"/>
+      <stop offset=".55" stop-color="#14b8a6" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="360" rx="20"/></clipPath>
+
+    <g id="fine-stars" fill="#dbeafe">
+      <circle cx="43" cy="38" r=".7"/><circle cx="128" cy="92" r=".6"/><circle cx="218" cy="32" r=".8"/>
+      <circle cx="307" cy="119" r=".55"/><circle cx="392" cy="55" r=".65"/><circle cx="482" cy="146" r=".7"/>
+      <circle cx="572" cy="73" r=".5"/><circle cx="657" cy="24" r=".75"/><circle cx="738" cy="128" r=".55"/>
+      <circle cx="829" cy="61" r=".7"/><circle cx="917" cy="151" r=".6"/><circle cx="1002" cy="88" r=".8"/>
+      <circle cx="1096" cy="31" r=".6"/><circle cx="1163" cy="137" r=".7"/><circle cx="76" cy="212" r=".6"/>
+      <circle cx="173" cy="171" r=".75"/><circle cx="267" cy="264" r=".55"/><circle cx="351" cy="202" r=".7"/>
+      <circle cx="445" cy="317" r=".65"/><circle cx="538" cy="238" r=".5"/><circle cx="624" cy="302" r=".75"/>
+      <circle cx="711" cy="218" r=".55"/><circle cx="802" cy="327" r=".7"/><circle cx="891" cy="247" r=".6"/>
+      <circle cx="978" cy="305" r=".8"/><circle cx="1068" cy="223" r=".55"/><circle cx="1151" cy="291" r=".7"/>
+    </g>
+    <g id="mid-stars" fill="#e0f2fe">
+      <circle cx="89" cy="71" r="1.1"/><circle cx="242" cy="143" r="1"/><circle cx="424" cy="83" r="1.2"/>
+      <circle cx="603" cy="171" r=".95"/><circle cx="776" cy="42" r="1.15"/><circle cx="949" cy="115" r="1"/>
+      <circle cx="1124" cy="67" r="1.2"/><circle cx="158" cy="294" r="1"/><circle cx="333" cy="239" r="1.15"/>
+      <circle cx="514" cy="331" r=".95"/><circle cx="688" cy="267" r="1.2"/><circle cx="867" cy="311" r="1"/>
+      <circle cx="1043" cy="258" r="1.15"/>
+    </g>
+    <g id="near-stars" fill="#fff">
+      <circle cx="54" cy="156" r="1.7"/><circle cx="285" cy="54" r="1.5"/><circle cx="497" cy="281" r="1.8"/>
+      <circle cx="716" cy="101" r="1.55"/><circle cx="930" cy="44" r="1.75"/><circle cx="1139" cy="201" r="1.5"/>
+    </g>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#space)"/>
+    <rect width="1200" height="360" fill="url(#glow)"/>
+    <path d="M0 307C189 274 332 342 518 305s318-17 420 16 177 18 262-3v42H0Z" fill="#020617" opacity=".36"/>
+
+    <g opacity=".62" class="stars fine">
+      <use href="#fine-stars"/><use href="#fine-stars" x="1200"/>
+    </g>
+    <g opacity=".78" class="stars mid">
+      <use href="#mid-stars"/><use href="#mid-stars" x="1200"/>
+    </g>
+    <g opacity=".95" class="stars near">
+      <use href="#near-stars"/><use href="#near-stars" x="1200"/>
+    </g>
+
+    <g transform="translate(915 180)" opacity=".9">
+      <ellipse rx="167" ry="86" fill="none" stroke="#67e8f9" stroke-opacity=".16"/>
+      <ellipse rx="116" ry="116" fill="none" stroke="#5eead4" stroke-opacity=".1" transform="rotate(28)"/>
+      <circle r="37" fill="#0e7490" opacity=".13" filter="url(#soft-glow)"/>
+      <circle r="5" fill="#67e8f9"/>
+      <g class="orbit-node">
+        <circle cx="164" r="3.5" fill="#5eead4" filter="url(#soft-glow)"/>
+      </g>
+      <circle cx="-81" cy="-62" r="2.8" fill="#bae6fd"/>
+      <circle cx="70" cy="92" r="2.4" fill="#99f6e4"/>
+      <text x="0" y="61" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" text-anchor="middle" letter-spacing="1.4">PLAN · EXECUTE · RECOVER</text>
+    </g>
+
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      <text x="76" y="82" fill="#67e8f9" font-size="12" font-weight="700" letter-spacing="3.2">ENGINEERING SYSTEMS THAT ENDURE</text>
+      <text x="72" y="156" fill="#f8fafc" font-size="51" font-weight="680" letter-spacing="-1.8">Kyungjae Lee</text>
+      <rect x="75" y="181" width="58" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="75" y="224" fill="#cbd5e1" font-size="19" font-weight="480" letter-spacing=".25">Agentic Systems · Backend Engineering · Developer Tools</text>
+      <text x="75" y="270" fill="#94a3b8" font-size="14.5">Building software that can explain, execute, observe, and recover.</text>
+    </g>
+    <rect x=".5" y=".5" width="1199" height="359" rx="19.5" fill="none" stroke="#7dd3fc" stroke-opacity=".14"/>
+  </g>
+
+  <style>
+    .fine { animation: drift 46s linear infinite; }
+    .mid { animation: drift 72s linear infinite reverse; }
+    .near { animation: drift 105s linear infinite; }
+    .orbit-node { animation: orbit 13s linear infinite; transform-origin: 0 0; }
+    @keyframes drift { to { transform: translateX(-1200px); } }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .stars, .orbit-node { animation: none; }
+    }
+  </style>
+</svg>

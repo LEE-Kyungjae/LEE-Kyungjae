@@ -1,8 +1,8 @@
 <div align="center">
 
-# Kyungjae Lee
+<img src="./assets/stars.svg" width="100%" alt="Kyungjae Lee — Agentic Systems, Backend Engineering, and Developer Tools" />
 
-### Agentic Systems · Backend Engineering · Developer Tools
+<br />
 
 AI가 답하는 데서 끝나지 않고, 근거를 남기고 도구를 실행하며<br />
 운영 결과로 검증되는 시스템을 만듭니다.
