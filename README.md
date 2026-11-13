@@ -33,9 +33,9 @@ Execution & observation
 
 ## Systems I build
 
-### [Palamedes](https://github.com/LEE-Kyungjae/Palamedes) · Open-source goal-discovery AGI engine
+### [Palamedes](https://github.com/LEE-Kyungjae/Palamedes) · Local-first goal discovery engine (Research Alpha)
 
-Palamedes is a powerful, next-generation open-source AGI engine built to tackle one of AI's most fundamental limitations: discovering what to pursue before being told what goal to pursue.
+Palamedes decides what mission is worth planning before execution agents decide how to implement it: it compares candidate goals against evidence, records criticism and falsifiers, and hands a bounded mission to downstream planners.
 
 스스로 임무를 발견하고 경쟁 가설과 반증 조건을 세우며, 계획의 변경과 복원을 추적합니다. Multi-agent provenance, stale-world protection, bounded context를 통해 목표가 만들어지는 판단 과정을 검사하고 재현할 수 있게 설계했습니다.
 
